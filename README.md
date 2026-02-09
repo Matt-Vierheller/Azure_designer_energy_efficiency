@@ -38,16 +38,16 @@ Built a complete regression pipeline in **Azure Machine Learning Designer** (low
 ## Visual Proof from Azure ML Designer
 
 **Dataset Preview & Verification**  
-![Energy Efficiency Data](images/energy_efficiency_data.png)
+![Energy Efficiency Data](energy_efficiency_data.png)
 
 **Full Pipeline Canvas & Runtimes**  
-![Pipeline and Runtimes](images/pipeline_and_runtimes.png)
+![Pipeline and Runtimes](pipeline_and_runtimes.png)
 
 **Model Architecture & Training Modules**  
-![Model Architecture](images/model_architecture.png)
+![Model Architecture](model_architecture.png)
 
 **Evaluation Metrics Comparison**  
-![Evaluation Metrics](images/evaluation_metrics.png)
+![Evaluation Metrics](evaluation_metrics.png)
 
 ## Results Summary
 
